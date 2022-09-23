@@ -9,6 +9,7 @@ nav {
     display: flex;
     justify-content: space-between; 
     align-items: center;
+    background-color: red;
 }
 
 
@@ -16,4 +17,7 @@ nav {
 .nav_logo{
     width: 35px;
     height: 35px;
+    background-color: blue;
+    margin: 15px;
+
 }
